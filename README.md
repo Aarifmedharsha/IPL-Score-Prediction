@@ -20,7 +20,7 @@ Heroku(Paas)
 Deployed at: https://damp-journey-84956.herokuapp.com/
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _
+Link: _https://www.kaggle.com/code/aarifmedharsha/notebook7292607d6d
 
 • A glimpse of the web app:
 
